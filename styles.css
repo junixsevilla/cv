@@ -79,6 +79,8 @@ span {
   grid-area: left;
   font-size: 1em;
   background-color: #bbb;
+  max-height: 950px;
+  overflow-y: scroll;
 }
 
 .left h3 {
