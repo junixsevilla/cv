@@ -79,7 +79,7 @@ span {
   grid-area: left;
   font-size: 1em;
   background-color: #bbb;
-  max-height: 1450px;
+  max-height: 1550px;
   overflow-y: scroll;
 }
 
@@ -266,6 +266,7 @@ span {
     max-width: 50%;
   }
 }
+
 
 
 
